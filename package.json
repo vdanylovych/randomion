@@ -1,0 +1,13 @@
+{
+  "name": "randomion",
+  "version": "1.0.0",
+  "description": "Test module",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "author": "Vladyslav Danylovych",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
+}
